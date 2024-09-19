@@ -4018,6 +4018,32 @@
           <width>0</width>
           <height>0</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-107.2</pan>
+            <tilt>0.14</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>$(ut)</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node43}</url>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -4677,6 +4703,32 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node44}</url>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-360.45</pan>
+            <tilt>-1.05</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>$(ut)</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node37}</url>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -10050,7 +10102,21 @@
       <userdata>
         <customprops/>
         <title>Học viện kĩ thuật quân sự</title>
-        <description>Học viện Kỹ thuật Quân sự (tiếng Anh: Military Technical Academy – MTA), (mã tuyển sinh là KQH), hay còn được gọi với cái tên dân sự là Trường Đại học Kỹ thuật Lê Quý Đôn là Đại học đầu ngành kỹ thuật, công nghệ quân sự và công nghiệp quốc phòng nằm trong Nhóm các Đại học trọng điểm Quốc gia Việt Nam đặt dưới sự lãnh đạo trực tiếp của Quân ủy Trung ương, Bộ Quốc phòng, sự chỉ đạo nghiệp vụ của Bộ giáo dục và Đào tạo. Học viện có nhiệm vụ đào tạo cán bộ kỹ thuật, công nghệ quân sự, chỉ huy tham mưu kỹ thuật có trình độ đại học, thạc sĩ, tiến sĩ cho quân đội. Đồng thời, Học viện có nhiệm vụ nghiên cứu khoa học công nghệ quân sự, kết hợp nghiên cứu với triển khai ứng dụng, chuyển giao công nghệ với sản xuất và thực hiện nhiệm vụ sẵn sàng chiến đấu và chiến đấu của quân đội.[1]. Học viện Kỹ thuật Quân sự là cơ sở nòng cốt để xây dựng, phát triển nền khoa học kỹ thuật, công nghệ quân sự và công nghiệp quốc phòng Việt Nam, trong bối cảnh cuộc cách mạng kỹ thuật quân sự trên thế giới đang phát triển nhanh chóng.</description>
+        <description>Học viện Kỹ thuật quân sự được thành lập theo Quyết định số 146/CP ngày 08 tháng 8 năm 1966 của Hội đồng Chính phủ với tên gọi ban đầu là “Phân hiệu II Đại học Bách khoa”. Ngày 28 tháng 10 năm 1966, tại Hội trường lớn Đại học Bách khoa, Bộ Đại học và Trung học chuyên nghiệp (nay là Bộ Giáo dục và Đào tạo) và Bộ Quốc phòng long trọng tổ chức Lễ thành lập Phân hiệu II Đại học Bách khoa, đồng thời khai giảng khoá đào tạo đầu tiên. Từ đó, ngày 28 tháng 10 năm 1966 được chọn là Ngày truyền thống của Học viện KỸ THUẬT QUÂN SỰ. Ngày 13 tháng 6 năm 1968, Thủ tướng Chính phủ quyết định đổi tên “Phân hiệu II Đại học Bách khoa” thành trường Đại học KỸ THUẬT QUÂN SỰ và ngày 15 tháng 12 năm 1981, Bộ Quốc phòng quyết định thành lập Học viện KỸ THUẬT QUÂN SỰ trên cơ sở trường Đại học KỸ THUẬT QUÂN SỰ. Nhằm phát huy tiềm năng trí tuệ của đội ngũ các nhà khoa học, cơ sở vật chất kỹ thuật hiện đại, công tác quản lý giáo dục khoa học, mở rộng hợp tác quốc tế của Học viện KỸ THUẬT QUÂN SỰ và đào tạo nguồn nhân lực phục vụ sự nghiệp công nghiệp hóa, hiện đại hóa đất nước, ngày 06 tháng 6 năm 1991, Chủ tịch Hội đồng Bộ trưởng quyết định cho phép Học viện mang thêm tên Đại học kỹ thuật Lê Quý Đôn. Ngày 31 tháng 1 năm 2008, Học viện KỸ THUẬT QUÂN SỰ được Chính phủ quyết định bổ sung vào danh sách các trường đại học trọng điểm quốc gia.
+	Hiện nay, Học viện KỸ THUẬT QUÂN SỰ biên chế gồm có: Ban Giám đốc và 49 cơ quan, đơn vị trực thuộc. Cụ thể: 14 phòng, ban chức năng: (Phòng Chính trị , Phòng Đào tạo ,Phòng Hậu cần - Kỹ thuật, Văn phòng, Phòng Khoa học quân sự, Phòng Sau đại học,Phòng Thông tin Khoa học quân sự, Ban Tài chính, Đại diện phía Nam , Phòng Hợp tác quốc tế và quản lý lưu học sinh quân sự , Ban Khảo thí và đảm bảo chất lượng giáo dục và đào tạo, Cơ quan uỷ ban kiểm tra , Thanh tra Học viện , Tạp chí Khoa học kỹ thuật ; 10 khoa (Khoa Hóa lý kỹ thuật , Khoa Ngoại ngữ , Khoa Cơ khí , Khoa Vũ khí , Khoa Hàng không vũ trụ , Khoa Vô Tuyến điện tử, Khoa Mác-Lê nin, tư tưởng Hồ Chí Minh , Khoa công tác đảng, công tác chính trị , Khoa Quân sự , Khoa Chỉ huy tham mưu kỹ thuật ; 06 viện đào tạo, nghiên cứu (Viện Công nghệ mô phỏng, Viện Kỹ thuật công trình đặc biệt, Viện Tích hợp hệ thống, Viện Công nghệ thông tin và truyền thông, Viện Cơ khí động lực , Viện Tên lửa và kỹ thuật điều khiển; 10 trung tâm; 05 tiểu đoàn  và 04 hệ quản lý học viên.
+	Ban Giám đốc 
+1.	Trung tướng, GS, TS, NGUT Lê Minh Thái 	- Giám đốc Học viện
+2.	Thiếu tướng Trần Văn Thưởng 			- Chính ủy Học viện
+3.	Thiếu tướng Trần Văn Duy 				- Phó Chính ủy Học viện
+4.	Thiếu tướng, GS, TS, NGUT Trần Xuân Nam 	- Phó Giám đốc Học viện
+5.	Thiếu tướng, PGS, TS Mai Quang Huy 		- Phó Giám đốc Học viện
+6.	Thiếu tướng Lê Anh Tuấn 				- Phó Giám đốc Học viện
+Danh hiệu, phần thưởng cao quý
+	Đơn vị Anh hùng LLVT nhân dân thời kỳ đổi mới, Huân chương Hồ Chí Minh, Huân chương Độc lập hạng Nhất, Nhì, Ba, Huân chương Quân công hạng Nhất, Nhì, Ba, Huân chương Chiến công hạng Nhất, Nhì, Ba, Huân chương Lao động hạng Ba.
+
+
+
+</description>
       </userdata>
       <usenodealtitude>0</usenodealtitude>
       <language>en-US</language>

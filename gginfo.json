@@ -2,7 +2,9 @@
 	"version": 1,
 	"type": "panorama",
 	"external": {
-		"js": [],
+		"js": [
+			"https://maps.googleapis.com/maps/api/js?v=3&key="
+		],
 		"css": []
 	},
 	"skin": {
@@ -12,7 +14,7 @@
 	"player": {
 		"js": "pano2vr_player.js"
 	},
-	"creationdate": "2024-09-19T09:25:58.894Z",
+	"creationdate": "2024-09-19T10:24:09.372Z",
 	"configuration": "pano.xml",
 	"preview": {
 		"img": "preview.jpg",
